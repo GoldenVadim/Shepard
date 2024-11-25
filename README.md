@@ -1,2 +1,2 @@
 # Shepard
-Flexible web-server framework written on Python
+A minimalistic, flexible web-server framework for Python. It have MIT License.
